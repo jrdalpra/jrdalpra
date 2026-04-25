@@ -55,6 +55,20 @@ I've built two platforms that compounded: Kraken at Loadsmart (other teams built
 
 ---
 
+## By the numbers
+
+| Metric | Count |
+|---|---|
+| PRs authored (last 27 months) | 130+ |
+| PRs reviewed (last 27 months) | 186+ |
+| Repos contributed to | 9 |
+| Production incidents led (Sev1/Sev2) | 10+ |
+| Follow-up completion rate | 100% |
+| Engineers managed (peak) | 20+ |
+| Carrier integrations delivered | multiple |
+
+---
+
 **Find me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josedalpra)
